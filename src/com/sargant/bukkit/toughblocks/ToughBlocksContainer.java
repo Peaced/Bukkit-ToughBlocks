@@ -23,7 +23,6 @@ import org.bukkit.material.MaterialData;
 public class ToughBlocksContainer
 {
 	public Material original;
-	public MaterialData doriginal;
 	public List<Material> tool;
 	public Integer damage;
 }
